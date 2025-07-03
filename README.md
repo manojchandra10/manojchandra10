@@ -1,10 +1,6 @@
 # 👋 Hello, I'm Manoj
 
-🎓 I'm a Master's in Data Science student at the University of Nottingham with a strong passion for turning data into actionable insights, building intelligent systems, and solving real-world problems using analytical and statistical techniques.
-
-## 🧠 About Me
-
-I’m currently deepening my understanding of data science and machine learning, with a focus on both the theoretical foundations and practical applications. I enjoy exploring data, building predictive models, and creating data-driven solutions that make a meaningful impact.
+🎓 I'm a Master's student in Data Science student at the University of Nottingham with a strong passion for turning data into actionable insights, building intelligent systems, and solving real-world problems using analytical and statistical techniques. I’m currently deepening my understanding of data science and machine learning, with a focus on both the theoretical foundations and practical applications. I enjoy exploring data, building predictive models, and creating data-driven solutions that make a meaningful impact.
 
 I'm especially interested in:
 - Data Science & Machine Learning
