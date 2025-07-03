@@ -40,7 +40,7 @@ I'm especially interested in:
 Feel free to check out my repositories, explore my projects, or connect with me:
 
 - LinkedIn: [manojchandra10](https://www.linkedin.com/in/manojchandra10/)
-- Portfolio: [manojchandra.co.uk](#)
+- Portfolio: manojchandra.co.uk
 - Say hi👋: [manojchandra910@gmail.com](manojchandra910@gmail.com)
 
 ---
