@@ -35,10 +35,6 @@ I'm especially interested in:
 
 </div>
 
-
-
-
-
 ## 🌱 Currently Working On
 - Building end-to-end machine learning projects
 - Exploring Generative AI applications
@@ -54,3 +50,5 @@ Feel free to check out my repositories, explore my projects, or connect with me:
 ---
 
 Thanks for stopping by! I'm always open to collaboration, learning, or a good data science discussion.
+
+![Total Visitors](https://visitor-badge.laobi.icu/badge?page_id=manojchandra10&label=Total%20Visitors&left_color=grey&right_color=blue)
